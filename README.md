@@ -3,12 +3,16 @@
 # Transcriptomic analysis of Integrated Stress Response in Lung cancer Cells
 
 ## Overview
-This project performs differential gene expression analysis using RNA-seq data with DESeq2 in R. The RNA-seq data used for this analysis was taken from GEO (Accession:312828). This dataset contains RNA-seq data of tumor cells following siRNA-mediated knowckdown of CHCHD10. 
+This project performs differential gene expression analysis using RNA-seq data with DESeq2 in R. The RNA-seq data used for this analysis was taken from GEO (Accession:312828). This dataset contains RNA-seq data of tumor cells following siRNA-mediated knockdown of CHCHD10. 
 The study is motivated by the role of the mitochondrial integrated stress response (ISR) in cancer evolution and cellular adaptation under stress conditions.
 The analysis includes normalization, statistical testing, and visualization of results.
 
+---
+
 ## Biological question
 Does CHCHD10 knockdown modulate stress-response and lineage plasticity programs in lung cancer cells?
+
+---
 
 ## Dataset
 - Source: Gene Expression Omnibus
