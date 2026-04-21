@@ -15,7 +15,7 @@ Does CHCHD10 knockdown modulate stress-response and lineage plasticity programs 
 ---
 
 ## Dataset
-- Source: Gene Expression Omnibus
+- Source: Gene Expression Omnibus (GEO)
 - Study context: Lung cancer cell line perturbation experiment
 - Conditions:
 - siCTRL (non-targeting control)
@@ -61,7 +61,7 @@ Does CHCHD10 knockdown modulate stress-response and lineage plasticity programs 
 
 ## Biological Interpretation
 
-Preliminary results suggest that CHCHD10 knockdown induces transcriptional changes consistent with altered mitochondrial function and stress-response activation. These changes may reflect modulation of integrated stress response pathways and potential shifts in cellular state (lineage plasticity) in lung cancer cells
+Upon interpretation of the results, genes were found to be differentially expressed. The padj values and log2FC values suggested that genes were significantly upregulated and downregulated under treatment conditions. Preliminary results suggest that CHCHD10 knockdown induces transcriptional changes consistent with altered mitochondrial function and stress-response activation. These changes may reflect modulation of integrated stress response pathways and potential shifts in cellular state (lineage plasticity) in lung cancer cells.
 
 ---
 
